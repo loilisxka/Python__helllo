@@ -1,1 +1,2 @@
 # Python__helllo
+本仓库作为学习python时建立的一个作业仓库
