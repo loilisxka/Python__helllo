@@ -1,0 +1,2 @@
+name='ÖÐÎÄ¡®
+print name
